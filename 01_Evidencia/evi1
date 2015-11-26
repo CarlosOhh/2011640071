@@ -1,0 +1,12 @@
+Busqueda de directivas para incluir un archivo de cabecera sólo si se esta compilando en windows. Directivas de procesador ifdef ifndef if else #
+
+_CRTIMP significado de la extensión en Dev; Extensiones del compilador para DevC.
+Es un compilador del proyecto GNU, es el grupo de compiladores para correr en Winwdows. No funciona en Linux.
+El desarrollo siempre se hace primero en Linux, y se le van agregando caracteristicvas a C++.
+Proyecto Dev C++.
+No aparece en el estandar de ANSIS.
+Buscar en el manual de Dev C.
+
+Diferenciar el lenguaje C del IDE (ambiente de programación).
+
+
