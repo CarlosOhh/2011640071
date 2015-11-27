@@ -33,5 +33,9 @@ cat bochslog.txt
 Y busque que en la direccion EAX este el valor del promedio de los tres numeros descritos en el archivo loader.s
 
 push dword 0X00000004                           ; arg3
+
+
 push dword 0X0000000B                           ; arg2
+
+
 push dword 0X00000003                           ; arg1
