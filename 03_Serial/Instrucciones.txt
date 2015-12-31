@@ -1,0 +1,14 @@
+Para ejecutar este ejercicio es necesario acceder a la carpeta 
+
+serial-1.0 -> send_receive_ex
+
+Una vez dentro de la carpeta ejecutar el siguiente comando
+
+./send_receive /dev/tty.SerialPortName
+Ejemplo ./send_receive /dev/ttyACM1
+
+En el microcontrolador debe de estar un programa "eco" que regrese la letra que
+recibio por el puerto serial pero en mayuscula. En este caso el programa utilizado 
+fue escrito para la plataforma del ATMega 2560.
+
+
