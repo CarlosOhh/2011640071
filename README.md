@@ -12,6 +12,7 @@ Las tareas a entregar son:
 el dia que corresponda a la fecha. La funcion debe funcionar bien 
 para cualquier fecha de este mes (En el semestre actual, 
 agosto-diciembre de 2015, Septiembre del anio 2015).
+3. Programa que comunica a Kali Linux a través del puerto serial con un controlador ATMega 2560, mandando una letra en minúscula y regresandola en mayúscula.
 
 
 En la carpeta de exámen se encuentran los archivos para ejecutar una función en lenguaje C a partir de ensamblador. Tres datos numericos son enviados, y posteriormente se calcula su promedio. No se utilizó una variable global, en su lugar se hizo uso de la dirección de un apuntador. El valor del resultado se regreso para que este fuera visto en el registro HEX.
